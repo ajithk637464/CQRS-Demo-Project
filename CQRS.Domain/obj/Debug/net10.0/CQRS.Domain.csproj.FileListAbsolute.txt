@@ -1,0 +1,11 @@
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\bin\Debug\net10.0\CQRS.Domain.deps.json
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\bin\Debug\net10.0\CQRS.Domain.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\bin\Debug\net10.0\CQRS.Domain.pdb
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\obj\Debug\net10.0\CQRS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\obj\Debug\net10.0\CQRS.Domain.AssemblyInfoInputs.cache
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\obj\Debug\net10.0\CQRS.Domain.AssemblyInfo.cs
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\obj\Debug\net10.0\CQRS.Domain.csproj.CoreCompileInputs.cache
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\obj\Debug\net10.0\CQRS.Domain.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\obj\Debug\net10.0\refint\CQRS.Domain.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\obj\Debug\net10.0\CQRS.Domain.pdb
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Domain\obj\Debug\net10.0\ref\CQRS.Domain.dll

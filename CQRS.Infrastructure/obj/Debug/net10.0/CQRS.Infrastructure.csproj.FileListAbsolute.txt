@@ -1,0 +1,17 @@
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\bin\Debug\net10.0\CQRS.Infrastructure.deps.json
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\bin\Debug\net10.0\CQRS.Infrastructure.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\bin\Debug\net10.0\CQRS.Infrastructure.pdb
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\bin\Debug\net10.0\CQRS.Application.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\bin\Debug\net10.0\CQRS.Domain.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\bin\Debug\net10.0\CQRS.Application.pdb
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\bin\Debug\net10.0\CQRS.Domain.pdb
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.csproj.AssemblyReference.cache
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.AssemblyInfoInputs.cache
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.AssemblyInfo.cs
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Inf.73B3A6BF.Up2Date
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\refint\CQRS.Infrastructure.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.pdb
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\ref\CQRS.Infrastructure.dll
