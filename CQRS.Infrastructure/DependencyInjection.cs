@@ -1,6 +1,8 @@
 ﻿using CQRS.Application.Interfaces;
+using CQRS.Infrastructure.Behaviors;
 using CQRS.Infrastructure.Persistence;
 using CQRS.Infrastructure.Repositories;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,6 +17,9 @@ public static class DependencyInjection
             options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
         services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+
+        // Registered after validation, so a transaction starts only for a valid command.
+        services.AddTransient(typeof(IPipelineBehavior<,>), typeof(TransactionBehavior<,>));
 
         return services;
     }

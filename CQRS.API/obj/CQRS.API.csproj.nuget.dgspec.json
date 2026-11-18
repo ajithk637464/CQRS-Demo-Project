@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.API\\CQRS.API.csproj",
         "projectName": "CQRS.API",
         "projectPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.API\\CQRS.API.csproj",
-        "packagesPath": "C:\\Users\\Ajith.K\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Ajith.K\\AppData\\Local\\Temp\\cursor-sandbox-cache\\e6f8f7e1ef8133bce578504900186ae4\\nuget",
         "outputPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -511,7 +511,7 @@
         "projectUniqueName": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Application\\CQRS.Application.csproj",
         "projectName": "CQRS.Application",
         "projectPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Application\\CQRS.Application.csproj",
-        "packagesPath": "C:\\Users\\Ajith.K\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Ajith.K\\AppData\\Local\\Temp\\cursor-sandbox-cache\\e6f8f7e1ef8133bce578504900186ae4\\nuget",
         "outputPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -1009,7 +1009,7 @@
         "projectUniqueName": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Domain\\CQRS.Domain.csproj",
         "projectName": "CQRS.Domain",
         "projectPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Domain\\CQRS.Domain.csproj",
-        "packagesPath": "C:\\Users\\Ajith.K\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Ajith.K\\AppData\\Local\\Temp\\cursor-sandbox-cache\\e6f8f7e1ef8133bce578504900186ae4\\nuget",
         "outputPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -1350,7 +1350,7 @@
         "projectUniqueName": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Infrastructure\\CQRS.Infrastructure.csproj",
         "projectName": "CQRS.Infrastructure",
         "projectPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Infrastructure\\CQRS.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Ajith.K\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Ajith.K\\AppData\\Local\\Temp\\cursor-sandbox-cache\\e6f8f7e1ef8133bce578504900186ae4\\nuget",
         "outputPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [

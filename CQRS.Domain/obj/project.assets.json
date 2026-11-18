@@ -8,7 +8,7 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ajith.K\\.nuget\\packages\\": {},
+    "C:\\Users\\Ajith.K\\AppData\\Local\\Temp\\cursor-sandbox-cache\\e6f8f7e1ef8133bce578504900186ae4\\nuget": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -17,7 +17,7 @@
       "projectUniqueName": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Domain\\CQRS.Domain.csproj",
       "projectName": "CQRS.Domain",
       "projectPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Domain\\CQRS.Domain.csproj",
-      "packagesPath": "C:\\Users\\Ajith.K\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Ajith.K\\AppData\\Local\\Temp\\cursor-sandbox-cache\\e6f8f7e1ef8133bce578504900186ae4\\nuget",
       "outputPath": "D:\\Ecommerce\\CQRS\\CQRS-Test-PROject\\CQRS.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [

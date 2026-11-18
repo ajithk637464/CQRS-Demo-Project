@@ -15,3 +15,4 @@ D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.I
 D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\refint\CQRS.Infrastructure.dll
 D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.pdb
 D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\ref\CQRS.Infrastructure.dll
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.Infrastructure\obj\Debug\net10.0\CQRS.Infrastructure.sourcelink.json

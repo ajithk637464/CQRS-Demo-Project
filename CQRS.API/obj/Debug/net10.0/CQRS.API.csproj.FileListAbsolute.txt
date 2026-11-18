@@ -92,4 +92,4 @@ D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.API\bin\Debug\net10.0\Swashbuckle.AspNe
 D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.API\bin\Debug\net10.0\FluentValidation.dll
 D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
-D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Ecommerce\CQRS\CQRS-Test-PROject\CQRS.API\obj\Debug\net10.0\CQRS.API.sourcelink.json
